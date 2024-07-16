@@ -6,3 +6,4 @@
 hwdsl2/ipsec-vpn-server
 nginx:1.26.1
 ifnazar/sybase_15_7
+bitnami/clickhouse:22.3.20
