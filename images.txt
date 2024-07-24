@@ -7,3 +7,5 @@ hwdsl2/ipsec-vpn-server
 nginx:1.26.1
 ifnazar/sybase_15_7
 bitnami/clickhouse:22.3.20
+ibmcom/informix-developer-database:12.10.FC12W1DE
+opengauss/opengauss:5.0.0
