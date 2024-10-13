@@ -10,3 +10,5 @@ bitnami/clickhouse:22.3.20
 ibmcom/informix-developer-database:12.10.FC12W1DE
 opengauss/opengauss:5.0.0
 memsql/quickstart:5.8.7
+zerotier/zerotier-synology
+adolfintel/speedtest
