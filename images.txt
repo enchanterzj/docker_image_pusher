@@ -13,3 +13,4 @@ nginx:1.26.1
 zerotier/zerotier-synology
 adolfintel/speedtest
 gitlab/gitlab-ce:latest
+bytebase/bytebase:latest
