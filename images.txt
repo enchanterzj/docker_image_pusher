@@ -14,3 +14,4 @@ zerotier/zerotier-synology
 adolfintel/speedtest
 gitlab/gitlab-ce:latest
 bytebase/bytebase:latest
+mysql:5.7.44
