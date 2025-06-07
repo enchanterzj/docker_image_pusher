@@ -12,7 +12,8 @@ nginx:1.26.1
 #memsql/quickstart:5.8.7
 zerotier/zerotier-synology
 adolfintel/speedtest
-gitlab/gitlab-ce:latest
+gitlab/gitlab-ce:17.10.0-ce.0
+gitlab/gitlab-ce:18.0.1-ce.0
+easytier/easytier:v2.3.1
 bytebase/bytebase:latest
 mysql:5.7.44
-easytier/easytier:latest
