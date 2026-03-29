@@ -17,6 +17,7 @@ gitlab/gitlab-ce:17.11.3-ce.0
 gitlab/gitlab-ce:18.0.1-ce.0
 gitlab/gitlab-ce:18.1.6-ce.0
 gitlab/gitlab-ce:18.2.8-ce.0
+gitlab/gitlab-ce:18.10.1-ce.0
 easytier/easytier:v2.3.1
 easytier/easytier:v2.3.2
 easytier/easytier:v2.4.2
