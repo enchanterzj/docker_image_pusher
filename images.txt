@@ -16,3 +16,4 @@ gitlab/gitlab-ce:18.10.3-ce.0
 easytier/easytier:v2.6.0
 bytebase/bytebase:latest
 mysql:5.7.44
+--platform=linux/arm64 sonatype/nexus3:3.91.1
